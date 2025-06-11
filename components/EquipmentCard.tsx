@@ -60,7 +60,7 @@ export default function EquipmentCard({ device }: { device: Device }) {
           </p>
 
           {/* 自定义悬停提示框 */}
-          {showTooltip && device.description && device.description.length > 60 && (
+          {showTooltip && device.description && device.description.length > 33 && (
             <div className="absolute z-50 bottom-full left-0 mb-2 p-3 max-w-xs bg-gray-900 text-white dark:bg-white dark:text-gray-900 rounded-lg shadow-lg text-sm animate-in fade-in-50 duration-200">
               <div className="relative">
                 <p>{device.description}</p>
