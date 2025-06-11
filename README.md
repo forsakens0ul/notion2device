@@ -7,7 +7,8 @@
 
 https://device.chalice.lol/
 
-![image.png](attachment:817df3ad-844a-4e00-8443-c06d412c2217:image.png)
+![image (3)](https://github.com/user-attachments/assets/50d1adbd-ccdf-4433-aba6-d78f3c293d2d)
+
 
 # 💻工作流
 
@@ -17,7 +18,8 @@ https://github.com/forsakens0ul/notion2device/
 
 项目亮点：配置notion数据库，便捷地完成内容管理
 
-![image.png](attachment:edc65f33-77b0-40c6-89fa-e72875d1d0ba:image.png)
+![image (4)](https://github.com/user-attachments/assets/05b9aa85-6de1-4bb7-b49e-1ecc504a1abb)
+
 
 只需对编辑数据库，即可实现展示设备的增删改
 
@@ -27,7 +29,6 @@ https://github.com/forsakens0ul/notion2device/
 
 2.创建notion数据库，发布，获取数据库id
 
-![image.png](attachment:edc65f33-77b0-40c6-89fa-e72875d1d0ba:image.png)
 
 第一次使用可参考我的模板，[https://garnet-scarer-ec7.notion.site/20d3a17d9c2180bfa88bcaf5d21c739b?v=20d3a17d9c21805e85ef000c5e06ae40&source=copy_link](https://www.notion.so/20d3a17d9c2180bfa88bcaf5d21c739b?pvs=21)
 
@@ -35,11 +36,11 @@ https://github.com/forsakens0ul/notion2device/
 
 3.创建notion集成[https://www.notion.com/zh-cn/integrations](https://www.notion.so/my-integrations) 获取密钥
 
-![image.png](attachment:b1cc7b35-6d36-4867-a195-2563144362fa:ace40c69-29f1-4156-b590-8893cfd022d6.png)
+![image (1)](https://github.com/user-attachments/assets/968de7b4-e1f3-4e57-b494-a5d57e886ebf)
 
 访问权限授权给2.创建的数据库
 
-![image.png](attachment:3d9b0da0-cf93-4099-be62-5bd4d5043924:image.png)
+![image (2)](https://github.com/user-attachments/assets/a16b1340-0f53-4ba0-846e-04d8da94ca60)
 
 4.打开https://vercel.com/ 一键部署，或者用vercel的v0导入项目（方便调试）
 
@@ -47,7 +48,8 @@ https://github.com/forsakens0ul/notion2device/
 
 6.添加数据，欣赏结果。
 
-![image.png](attachment:fd88938a-db84-401a-8f51-1c30f056b7c3:image.png)
+![image](https://github.com/user-attachments/assets/e9140adf-196d-4384-9715-1bd71db82de4)
+
 
 # 📎 改进
 
