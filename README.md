@@ -1,30 +1,59 @@
-# New Project
+<aside>
+😀 制作你的赛博展示柜
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+</aside>
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/zzs-projects-c4208bf1/v0-new-project-mzszcmqzds7)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/MzSzCmQZDs7)
+# 🥳效果展示
 
-## Overview
+https://device.chalice.lol/
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+![image.png](attachment:817df3ad-844a-4e00-8443-c06d412c2217:image.png)
 
-## Deployment
+# 💻工作流
 
-Your project is live at:
+项目地址：https://github.com/forsakens0ul/notion2device/
 
-**[https://vercel.com/zzs-projects-c4208bf1/v0-new-project-mzszcmqzds7](https://vercel.com/zzs-projects-c4208bf1/v0-new-project-mzszcmqzds7)**
+https://github.com/forsakens0ul/notion2device/
 
-## Build your app
+项目亮点：配置notion数据库，便捷地完成内容管理
 
-Continue building your app on:
+![image.png](attachment:edc65f33-77b0-40c6-89fa-e72875d1d0ba:image.png)
 
-**[https://v0.dev/chat/projects/MzSzCmQZDs7](https://v0.dev/chat/projects/MzSzCmQZDs7)**
+只需对编辑数据库，即可实现展示设备的增删改
 
-## How It Works
+# 🥰实现步骤
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1.star&fork本项目到你的仓库https://github.com/forsakens0ul/notion2device/
+
+2.创建notion数据库，发布，获取数据库id
+
+![image.png](attachment:edc65f33-77b0-40c6-89fa-e72875d1d0ba:image.png)
+
+第一次使用可参考我的模板，[https://garnet-scarer-ec7.notion.site/20d3a17d9c2180bfa88bcaf5d21c739b?v=20d3a17d9c21805e85ef000c5e06ae40&source=copy_link](https://www.notion.so/20d3a17d9c2180bfa88bcaf5d21c739b?pvs=21)
+
+记得配置属性的类型
+
+3.创建notion集成[https://www.notion.com/zh-cn/integrations](https://www.notion.so/my-integrations) 获取密钥
+
+![image.png](attachment:b1cc7b35-6d36-4867-a195-2563144362fa:ace40c69-29f1-4156-b590-8893cfd022d6.png)
+
+访问权限授权给2.创建的数据库
+
+![image.png](attachment:3d9b0da0-cf93-4099-be62-5bd4d5043924:image.png)
+
+4.打开https://vercel.com/ 一键部署，或者用vercel的v0导入项目（方便调试）
+
+5.配置2.获取的数据库id NOTION_DATABASE_ID 和 3.获取的集成NOTION_TOKENtoken 到项目的环境变量，通过console打印查看是否成功获取到notion的数据（本例name、category、cover、description、link），获取成功的话，结合项目的基本转换逻辑和展示，应该就能正常显示。
+
+6.添加数据，欣赏结果。
+
+![image.png](attachment:fd88938a-db84-401a-8f51-1c30f056b7c3:image.png)
+
+# 📎 改进
+
+如果有用，后续可以将1-5的工作流合并成fork+一键部署
+
+<aside>
+💡 有关Notion安装或者使用上的问题，欢迎您在底部评论区留言，一起交流~
+
+</aside>
