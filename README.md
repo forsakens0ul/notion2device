@@ -1,18 +1,10 @@
-<aside>
+![wechat_qr](https://github.com/user-attachments/assets/4931e501-461e-44e3-a721-66b5cf258648)![wechat_qr](https://github.com/user-attachments/assets/4931e501-461e-44e3-a721-66b5cf258648)<aside>
 😀 制作你的赛博展示柜
 
 
 </aside>
 
----
 
-<img width="324" alt="微信图片_20250620101556" src="https://github.com/user-attachments/assets/a1c83350-84ab-4a10-a047-fb7d5008fd8f" />
-
-
-![wechatQR](https://github.com/user-attachments/assets/eed84d09-ad05-42de-aa45-f9364cc92ec4)
-
-点个关注喵😸 永雏塔菲谢谢你喵😽
----
 
 # 🥳效果展示
 
@@ -70,3 +62,24 @@ https://github.com/forsakens0ul/notion2device/
 💡 有关Notion安装或者使用上的问题，欢迎您在底部评论区留言，一起交流~
 
 </aside>
+
+---
+
+<img width="324" alt="微信图片_20250620101556" src="https://github.com/user-attachments/assets/a1c83350-84ab-4a10-a047-fb7d5008fd8f" />
+
+
+![wechatQR](https://github.com/user-attachments/assets/eed84d09-ad05-42de-aa45-f9364cc92ec4)
+
+点个关注喵😸 永雏塔菲谢谢你喵😽
+---
+## ☕️ 如果你觉得这个项目对你有帮助，可以请我喝杯咖啡～
+## ⚡ 此项目完全开源，仅作为感谢/打赏，不构成购买义务。～
+
+微信 | 支付宝
+:--:|:--:
+![wechat_qr](https://github.com/user-attachments/assets/0ef07839-b60c-41d7-9654-3d5c523a278e)
+|
+![alipay_qr](https://github.com/user-attachments/assets/1ac58eed-22eb-402a-a8d0-f7848e266c29)
+
+
+
