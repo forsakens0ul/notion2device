@@ -1,4 +1,4 @@
-![wechat_qr](https://github.com/user-attachments/assets/4931e501-461e-44e3-a721-66b5cf258648)![wechat_qr](https://github.com/user-attachments/assets/4931e501-461e-44e3-a721-66b5cf258648)<aside>
+<aside>
 😀 制作你的赛博展示柜
 
 
@@ -77,9 +77,7 @@ https://github.com/forsakens0ul/notion2device/
 
 微信 | 支付宝
 :--:|:--:
-![wechat_qr](https://github.com/user-attachments/assets/0ef07839-b60c-41d7-9654-3d5c523a278e)
-|
-![alipay_qr](https://github.com/user-attachments/assets/1ac58eed-22eb-402a-a8d0-f7848e266c29)
+![wechat_qr](https://github.com/user-attachments/assets/0ef07839-b60c-41d7-9654-3d5c523a278e)|![alipay_qr](https://github.com/user-attachments/assets/1ac58eed-22eb-402a-a8d0-f7848e266c29)
 
 
 
